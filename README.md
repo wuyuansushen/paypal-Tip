@@ -1,5 +1,7 @@
-# paypal_inactivate_automatic_payments
+# paypal-Tip
 Guide about Inactivating  automatic payments in paypal.
+
+:warning: Don't use Paypal to pay for non-virtual items' order.
 
 Paypal usually adds some companies in **automatic payments**, so it is important to cancel some of them appropriately.
 
